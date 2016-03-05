@@ -1,0 +1,28 @@
+name: DANIEL RUIZ HUECK
+favicon: null
+layout_spectrum: 0.260809377534315
+typography_spectrum: 0.751711416291073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.05098380637355149
+  lightness: 0.7600974964443594
+  saturation: 0.06677883607335389
+  rhythmicContrast: 0.3451096252538264
+purpose: []
