@@ -1,29 +1,39 @@
-name: DANIEL RUIZ HUECK
-favicon: null
-layout_spectrum: 0.74058
-typography_spectrum: 0.751711416291073
 title: creative producer
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.06677883607335389
+  brandStrength: 0.9318997
+  lightness: 0.7600974964443594
+  brandColors:
+    - '#1E1F1F'
+    - '#EAE8DF'
+    - '#B4B4B4'
+  rhythmicContrast: 0.3451096252538264
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: DANIEL RUIZ HUECK
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0
-  lightness: 0.7600974964443594
-  saturation: 0.06677883607335389
-  rhythmicContrast: 0.3451096252538264
-purpose: []
+typography_spectrum: 0.751711416291073
+layout_spectrum: 0.4749104
